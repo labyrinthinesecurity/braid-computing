@@ -24,7 +24,7 @@ import numpy as np
 import pandas as pd
 from collections import Counter
 
-CSV_DEFAULT = '1000sccs.csv'
+CSV_DEFAULT = 'scc_war_ratios.csv'
 REGIME_NAMES = {0: 'focused', 1: 'dispersed'}
 
 
